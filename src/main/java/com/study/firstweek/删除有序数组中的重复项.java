@@ -58,7 +58,7 @@ package com.study.firstweek;
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class 删除有序数组中的重复项 {
     public int removeDuplicates(int[] nums) {
         int left = 0, right = 1;
         while(right < nums.length){
@@ -71,4 +71,3 @@ class Solution {
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
-
