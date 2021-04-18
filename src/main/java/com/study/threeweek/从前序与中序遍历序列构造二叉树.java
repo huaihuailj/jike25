@@ -1,5 +1,9 @@
 package com.study.threeweek;
 
+import javax.swing.tree.TreeNode;
+import java.util.HashMap;
+import java.util.Map;
+
 public class 从前序与中序遍历序列构造二叉树 {
 
     private Map<Integer,Integer> inOrderMap;
